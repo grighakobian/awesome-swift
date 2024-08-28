@@ -1629,6 +1629,8 @@ In parternship with:
 * [TagCellLayout](https://github.com/riteshhgupta/TagCellLayout) - UICollectionView layout for Tags with Left, Center & Right alignments.
 * [UICollectionViewSplitLayout](https://github.com/yahoojapan/UICollectionViewSplitLayout) - UICollectionViewSplitLayout makes collection view more responsive.
 * [VegaScroll](https://github.com/AppliKeySolutions/VegaScroll) - Lightweight animation flowlayout for UICollectionView.
+* [Pagination](https://github.com/grighakobian/swift-pagination) - An easy-to-use API for implementing infinite scrolling in your collection view.
+
 
 #### UITableView
 [back to top](#readme) 
@@ -1655,6 +1657,7 @@ In parternship with:
 * [SwipeCellKit](https://github.com/SwipeCellKit/SwipeCellKit) - Swipeable UITableViewCell based on the stock Mail.app.
 * [WLEmptyState](https://github.com/wizeline/WLEmptyState) - A component that lets you customize the view when the dataset of UITableView is empty.
 * [YNExpandableCell](https://github.com/younatics/YNExpandableCell) - Awesome expandable, collapsible tableview cell for iOS.
+* [Pagination](https://github.com/grighakobian/swift-pagination) - An easy-to-use API for implementing infinite scrolling in your table view.
 
 #### Walkthrough
 [back to top](#readme) 
